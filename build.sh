@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build --tag alancnet/node-6 .
+docker build --tag alancnet/node:6 .
